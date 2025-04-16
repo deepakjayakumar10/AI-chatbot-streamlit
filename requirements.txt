@@ -1,9 +1,8 @@
 streamlit==1.38.0
-snowflake
-snowflake-connector-python==3.12.2
-snowflake-snowpark-python==1.22.1
+snowflake-connector-python>=3.12.2
+snowflake-snowpark-python>=1.22.1
 snowflake-ml-python==1.6.2
-snowflake.core==0.12.1
+snowflake.core>=0.12.1
 beautifulsoup4==4.12.3
 googletrans==4.0.0-rc1
 deep-translator
